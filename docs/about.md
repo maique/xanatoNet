@@ -2,18 +2,25 @@
 layout: page
 permalink: /about/
 title: About mrBatsu
+image: /images/praiaBoi-squashed.jpg
 tags: [about]
 modified: 2019-01-07
 ---
 
-Hey, it's mrBatsu, another [maique](http://twitter.com/maique) alter ego. The geekier one.  
+## Hey there, my name is maique.
 
-Here we are, again. While trying to learn some stuff about Linux I decided to keep a journal of the process. That, and some other computer and web related stuff, might show up here.  I thought about hosting this _blog_ on Wordpress but seemed more appropriate setting it up on [GitHub Pages](https://pages.github.com), and managed with [Jekyll](http://jekyllrb.com).  
+A long time ago I registered this domain, and it hosted a blog for a while. It was my first domain. At the moment it has a couple of emails still attached to it, emails I'm trying to deactivate, but I wasn't using it for anything else.  
 
-Enjoy.  
+So... new playground! Yay!
 
-You can find the real me on [Twitter](https://twitter.com/maique) and [Instagram](https://instagram.com/maique).  
-That's where I spend most of the time when I'm not out and about, shooting something.  
+I [tweet](http://twitter.com/maique). Maybe too much.
+
+Occasionally I'm also a photographer. Some shots are up on [flickr](http://flickr.com/photos/maique/).  
+There's also an [instagram](http://instagram.com/maique) account.
+
+If you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
+
+Enjoy. 
 
 ----
 
