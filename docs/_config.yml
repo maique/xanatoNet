@@ -21,7 +21,7 @@ locale: en-US
 title: "xanatoNet"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/xanatoNet"
-url: "https://maique.github.io"
+url: "https://xanato.net"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: false
