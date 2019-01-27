@@ -6,8 +6,6 @@ image: /images/praiaBoi-squashed.jpg
 tags: [about]
 modified: 2019-01-07
 ---
-
-<div style="text-align: center;">
   
 ## Hey there, my name is maique.
 
@@ -35,4 +33,3 @@ Hosted on [**GitHub Pages**](https://pages.github.com), powered by [**Jekyll**](
 Avatar made with [grimfrog's](https://twitter.com/grimfrog) cool app [**Bitface**](https://itunes.apple.com/no/app/bitface-8-bit-avatar-creator/id687230250?mt=8).  
 
 Assembled with [**Sublime Text**](http://www.sublimetext.com).
-</div>
