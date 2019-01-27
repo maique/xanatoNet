@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About
-image: /images/praiaBoi-wide.jpg
+image: /images/praiaBoi-squashed.jpg
 tags: [about]
 modified: 2019-01-07
 ---
