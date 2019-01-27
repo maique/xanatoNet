@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "xanatoNet"
 description: "A simple Jekyll theme for words and pictures."
-baseurl: "/notes"
+baseurl: "/notes/"
 url: "https://xanato.net"
 logo: "/images/avatar-icon-mrBatsu.png"
 date_format: "%B %-d, %Y"
