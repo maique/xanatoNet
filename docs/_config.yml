@@ -18,7 +18,7 @@
 remote_theme: mmistakes/so-simple-theme
 
 locale: en-US
-title: "So Simple"
+title: "xanatoNet"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/so-simple-theme"
 url: "https://mmistakes.github.io"
