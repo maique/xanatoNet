@@ -8,6 +8,7 @@ modified: 2019-01-07
 ---
 
 <div style="text-align: center;">
+  
 ## Hey there, my name is maique.
 
 A long time ago I registered this domain, and it hosted a blog for a while. It was my first domain. At the moment it has a couple of emails still attached to it, emails I'm trying to deactivate, but I wasn't using it for anything else.  
