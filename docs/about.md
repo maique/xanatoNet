@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 title: About mrBatsu
-image: /images/praiaBoi-squashed.jpg
+image: /images/praiaBoi-wide.jpg
 tags: [about]
 modified: 2019-01-07
 ---
