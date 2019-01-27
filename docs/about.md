@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About mrBatsu
+title: About
 image: /images/praiaBoi-wide.jpg
 tags: [about]
 modified: 2019-01-07
