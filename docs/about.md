@@ -36,4 +36,4 @@ Assembled with [**Sublime Text**](http://www.sublimetext.com).
 
 [![GitHub Pages](https://img.shields.io/badge/hosted-github-ff69b4.svg?style=for-the-badge)](https://pages.github.com/)
 [![Jekyll](https://img.shields.io/badge/powered-jekyll-ff69b4.svg?style=for-the-badge)](http://jekyllrb.com/)
-[![SublimeText](https://img.shields.io/badge/assembled-simpletext-ff69b4.svg?style=for-the-badge)](http://www.sublimetext.com/)
+[![SublimeText](https://img.shields.io/badge/assembled-sublimetext-ff69b4.svg?style=for-the-badge)](http://www.sublimetext.com/)
