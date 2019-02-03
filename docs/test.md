@@ -15,6 +15,8 @@ Just testing some stuff. If it works it might end up somewhere else on the site.
 <i class="fas fa-camera-retro"></i>
 <span class="fas fa-camera-retro"></span>
 
+Does it work ?
+
 ----
 
 ### Colophon
