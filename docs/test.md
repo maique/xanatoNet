@@ -12,8 +12,8 @@ modified: 2019-02-01
 Just testing some stuff. If it works it might end up somewhere else on the site.
 
 
-<i class="fas fa-camera-retro"></i>
-<span class="fas fa-camera-retro"></span>
+<i class="fas fa-camera-retro fa-2x"></i>
+
 
 Does it work ?
 
