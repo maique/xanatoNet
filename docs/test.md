@@ -11,7 +11,7 @@ modified: 2019-02-01
 
 Just testing some stuff. If it works it might end up somewhere else on the site.
 
-<span style="color: ff69b4;">
+<span style="color: #ff69b4;">
 <i class="fas fa-camera-retro fa-2x"></i>
 </span>
 
