@@ -1,26 +1,19 @@
 ---
 layout: page
-permalink: /about/
-title: About
+permalink: /test/
+title: Test
 image: /images/praiaBoi-squashed.jpg
-tags: [about]
-modified: 2019-01-07
+tags: [test]
+modified: 2019-02-01
 ---
   
-## Hey there, my name is maique.
+## Hello Hello
 
-A long time ago I registered this domain, and it hosted a blog for a while. It was my first domain. At the moment it has a couple of emails still attached to it, emails I'm trying to deactivate, but I wasn't using it for anything else.  
+Just testing some stuff. If it works it might end up somewhere else on the site.
 
-So... new playground! Yay!
 
-I [tweet](http://twitter.com/maique). Maybe too much.
-
-Occasionally I'm also a photographer. Some shots are up on [flickr](http://flickr.com/photos/maique/).  
-There's also an [instagram](http://instagram.com/maique) account.
-
-If you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
-
-Enjoy. 
+<i class="fas fa-camera-retro"></i>
+<span class="fas fa-camera-retro"></span>
 
 ----
 
