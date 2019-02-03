@@ -13,6 +13,8 @@ Just testing some stuff. If it works it might end up somewhere else on the site.
 
 <span style="color: #ff69b4;">
 <i class="fas fa-camera-retro fa-2x"></i>
+<i class="fas fa-plane fa-2x"></i>
+<i class="fas fa-motorcycle fa-2x"></i>
 </span>
 
 Does it work ?
