@@ -34,3 +34,6 @@ Avatar made with [grimfrog's](https://twitter.com/grimfrog) cool app [**Bitface*
 [![Jekyll](https://img.shields.io/badge/powered-jekyll-ff69b4.svg?style=for-the-badge)](http://jekyllrb.com/) 
 [![SublimeText](https://img.shields.io/badge/assembled-sublimetext-ff69b4.svg?style=for-the-badge)](http://www.sublimetext.com/) 
 [![WorkingCopy](https://img.shields.io/badge/updated-workingcopy-ff69b4.svg?style=for-the-badge)](https://workingcopy.app/)
+
+<script src="https://bunq.me/app/js/embed/bunqme.js" type="text/javascript" async></script>
+<div id="bunqMe" data-alias="https://bunq.me/maique"></div"
