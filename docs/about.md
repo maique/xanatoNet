@@ -36,4 +36,4 @@ Avatar made with [grimfrog's](https://twitter.com/grimfrog) cool app [**Bitface*
 [![WorkingCopy](https://img.shields.io/badge/updated-workingcopy-ff69b4.svg?style=for-the-badge)](https://workingcopy.app/)
 
 <script src="https://bunq.me/app/js/embed/bunqme.js" type="text/javascript" async></script>
-<div id="bunqMe" data-alias="https://bunq.me/maique"></div"
+<div id="bunqMe" data-alias="https://bunq.me/maique"></div>
