@@ -7,7 +7,7 @@ tags:
 last_modified_at: 2018-02-01T12:54:35-05:00
 ---
 
-This post tests YouTube video embeds.
+This post tests YouTube video embeds.  
 
 {% include responsive-embed url="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;" %}
 
