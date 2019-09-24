@@ -35,5 +35,16 @@ Avatar made with [grimfrog's](https://twitter.com/grimfrog) cool app [**Bitface*
 [![SublimeText](https://img.shields.io/badge/assembled-sublimetext-ff69b4.svg?style=for-the-badge)](http://www.sublimetext.com/) 
 [![WorkingCopy](https://img.shields.io/badge/updated-workingcopy-ff69b4.svg?style=for-the-badge)](https://workingcopy.app/)
 
-<script src="https://bunq.me/app/js/embed/bunqme.js" type="text/javascript" async></script>
-<div id="bunqMe" data-alias="https://bunq.me/maique"></div>
+----
+
+### Support
+
+If you enjoy the content I'm sharing, either here or on the photo social sites, feel free to help support my extravagant lifestyle.  
+
+You can do it in a couple of places.  
+
+- [Patreon](https://www.patreon.com/maique)
+- [BuyMeACoffee](https://www.buymeacoffee.com/maique)
+- [Ko-Fi](https://ko-fi.com/maique)
+
+I will thank you forever.
