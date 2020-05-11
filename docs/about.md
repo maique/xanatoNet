@@ -20,6 +20,8 @@ There's also an [instagram](http://instagram.com/maique) account.
 
 If you're looking for an _official_ site, there's one at [maiquemadeira.com](http://maiquemadeira.com/).
 
+You can also follow me on <a href="https://micro.blog/maique" rel="me">Micro.blog</a>.
+
 Enjoy. 
 
 ----
