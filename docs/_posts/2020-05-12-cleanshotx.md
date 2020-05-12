@@ -9,8 +9,6 @@ comments: false
 share: false
 ---
 
-CleanShot X
-
 I'm a screenshot addict. I am. Not sure if that because I'm a photographer, used to shoot everything as a sort of life's notebook. I see screenshots also as shots of our online lives, notes of things we see on the web. 
 
 I loved and used a lot of apps to screenshot stuff on the Mac (I still remember pre-Evernote Skitch!), and then moved to the native macOS tool. Thousands os screenshots live on my computer and iPhone. 
